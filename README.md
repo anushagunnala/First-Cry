@@ -79,7 +79,7 @@ This page displays the items in the user's shopping cart and allows them to upda
 
 This page allows users to log in to their account or create a new account if they don't have one already. Users can also reset their password if they forget it.
 
-### Signin page
+### Sign-in page
 
 <img width="710" alt="image" src="https://i.postimg.cc/jqmBm9dj/Sign-Up-Page.png" />
 
@@ -114,7 +114,7 @@ This clone website is a demonstration of web development skills and replicates s
 
 ### Github Link :
 
-**[Github Link]()**
+**[Github Link](https://github.com/anushagunnala/First-Cry/tree/main)**
 
 
 ### Netlify Link :
