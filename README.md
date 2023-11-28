@@ -119,6 +119,6 @@ This clone website is a demonstration of web development skills and replicates s
 
 ### Netlify Link :
 
-**[Netlify Link]()**
+**[Netlify Link](https://6565eed73b334b7a259c0e03--jocular-cascaron-2dd712.netlify.app/)**
 
 
